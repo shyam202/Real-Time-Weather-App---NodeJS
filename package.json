@@ -1,0 +1,22 @@
+{
+  "name": "weatherappnodejs",
+  "version": "1.0.0",
+  "description": "creating weather nodejs app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shyam202/Real-Time-Weather-App---NodeJS.git"
+  },
+  "author": "Shyam Lakhani",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shyam202/Real-Time-Weather-App---NodeJS/issues"
+  },
+  "homepage": "https://github.com/shyam202/Real-Time-Weather-App---NodeJS#readme",
+  "dependencies": {
+    "requests": "^0.3.0"
+  }
+}
